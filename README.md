@@ -3,6 +3,6 @@ Example Notebooks for Quick Demonstration and Documentation
 
 Contributors
 ------------
-. Joshua L. Phillips
-. Samuel Remedios
+* Joshua L. Phillips
+* Samuel Remedios
 
